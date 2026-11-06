@@ -1,0 +1,26 @@
+{
+  "name": "@alygates/notions",
+  "version": "0.1.0",
+  "description": "Design tokens and React components behind alygates.com and the small apps I build.",
+  "type": "module",
+  "author": "Aly Gates (https://www.alygates.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gateszies/notions-design-system.git"
+  },
+  "files": [
+    "dist",
+    "tokens"
+  ],
+  "exports": {
+    "./tokens.css": "./dist/tokens.css",
+    "./theme.css": "./dist/theme.css",
+    "./tokens/*": "./tokens/*"
+  },
+  "scripts": {
+    "build:tokens": "node scripts/build-tokens.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,1597 @@
+{
+  "color": {
+    "neutral": {
+      "100": {
+        "$type": "color",
+        "$value": "#fff6ee",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-100"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#e6d0ba",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-200"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#c9aa97",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-300"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#a47f79",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-400"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#7b595a",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-500"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#673c33",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-600"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#4f2d2c",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-700"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#3b2023",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-800"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#33191e",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-900"
+          }
+        }
+      }
+    },
+    "poppy": {
+      "100": {
+        "$type": "color",
+        "$value": "#fff2ee",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-100"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#ffe0d7",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-200"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#ffc0ac",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-300"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ff550c",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-400"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#df4705",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-500"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#c03a00",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-600"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#912b04",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-700"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#6b1b00",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-800"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#4a0f00",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-900"
+          }
+        }
+      }
+    },
+    "mist": {
+      "100": {
+        "$type": "color",
+        "$value": "#eff6ff",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-100"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#dbe9fd",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-200"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#bcd3f3",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-300"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#7ea5dc",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-400"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#5887ca",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-500"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#3269b8",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-600"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#204d8d",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-700"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#123567",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-800"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#082246",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-900"
+          }
+        }
+      }
+    },
+    "avocado": {
+      "100": {
+        "$type": "color",
+        "$value": "#f7f6e7",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-100"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#ebeacc",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-200"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#d7d59c",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-300"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#b3ab2c",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-400"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#928b24",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-500"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#726c1c",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-600"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#544f0c",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-700"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#3b3702",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-800"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#262300",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-900"
+          }
+        }
+      }
+    },
+    "cherry": {
+      "100": {
+        "$type": "color",
+        "$value": "#fff2f1",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-100"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#ffdfde",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-200"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#febebd",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-300"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ef656b",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-400"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#d44d54",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-500"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#ba343c",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-600"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#8e2129",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-700"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#68121a",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-800"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#47070e",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-900"
+          }
+        }
+      }
+    },
+    "fern": {
+      "100": {
+        "$type": "color",
+        "$value": "#ecf9ee",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-100"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#d8efdb",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-200"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#b4ddbb",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-300"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#69ba7c",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-400"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#4b9a61",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-500"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#2d7b48",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-600"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#1b5b32",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-700"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#0c4021",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-800"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#042a12",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-900"
+          }
+        }
+      }
+    },
+    "marigold": {
+      "100": {
+        "$type": "color",
+        "$value": "#fdf4e7",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-100"
+          }
+        }
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#fae4c7",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-200"
+          }
+        }
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#f4c98e",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-300"
+          }
+        }
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#eba941",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-400"
+          }
+        }
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#c58526",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-500"
+          }
+        }
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#9f6202",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-600"
+          }
+        }
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#794900",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-700"
+          }
+        }
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#583400",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-800"
+          }
+        }
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#3c2200",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-900"
+          }
+        }
+      }
+    }
+  },
+  "alpha": {
+    "neutral": {
+      "a100": {
+        "$type": "color",
+        "$value": "#33191e1a",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-a100"
+          }
+        }
+      },
+      "a200": {
+        "$type": "color",
+        "$value": "#33191e33",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-a200"
+          }
+        }
+      },
+      "a300": {
+        "$type": "color",
+        "$value": "#33191e4d",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-a300"
+          }
+        }
+      },
+      "a400": {
+        "$type": "color",
+        "$value": "#33191e66",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-a400"
+          }
+        }
+      },
+      "a500": {
+        "$type": "color",
+        "$value": "#33191e80",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-a500"
+          }
+        }
+      },
+      "a600": {
+        "$type": "color",
+        "$value": "#33191e99",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-a600"
+          }
+        }
+      },
+      "a700": {
+        "$type": "color",
+        "$value": "#33191eb2",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-a700"
+          }
+        }
+      },
+      "a800": {
+        "$type": "color",
+        "$value": "#33191ecc",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-a800"
+          }
+        }
+      },
+      "a900": {
+        "$type": "color",
+        "$value": "#33191ee5",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-a900"
+          }
+        }
+      }
+    },
+    "neutral-inverse": {
+      "a100": {
+        "$type": "color",
+        "$value": "#fff6ee1a",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-inverse-a100"
+          }
+        }
+      },
+      "a200": {
+        "$type": "color",
+        "$value": "#fff6ee33",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-inverse-a200"
+          }
+        }
+      },
+      "a300": {
+        "$type": "color",
+        "$value": "#fff6ee4d",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-inverse-a300"
+          }
+        }
+      },
+      "a400": {
+        "$type": "color",
+        "$value": "#fff6ee66",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-inverse-a400"
+          }
+        }
+      },
+      "a500": {
+        "$type": "color",
+        "$value": "#fff6ee80",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-inverse-a500"
+          }
+        }
+      },
+      "a600": {
+        "$type": "color",
+        "$value": "#fff6ee99",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-inverse-a600"
+          }
+        }
+      },
+      "a700": {
+        "$type": "color",
+        "$value": "#fff6eeb2",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-inverse-a700"
+          }
+        }
+      },
+      "a800": {
+        "$type": "color",
+        "$value": "#fff6eecc",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-inverse-a800"
+          }
+        }
+      },
+      "a900": {
+        "$type": "color",
+        "$value": "#fff6eee5",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-neutral-inverse-a900"
+          }
+        }
+      }
+    },
+    "poppy": {
+      "a100": {
+        "$type": "color",
+        "$value": "#df47051a",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-a100"
+          }
+        }
+      },
+      "a200": {
+        "$type": "color",
+        "$value": "#df470533",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-a200"
+          }
+        }
+      },
+      "a300": {
+        "$type": "color",
+        "$value": "#df47054d",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-a300"
+          }
+        }
+      },
+      "a400": {
+        "$type": "color",
+        "$value": "#df470566",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-a400"
+          }
+        }
+      },
+      "a500": {
+        "$type": "color",
+        "$value": "#df470580",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-a500"
+          }
+        }
+      },
+      "a600": {
+        "$type": "color",
+        "$value": "#df470599",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-a600"
+          }
+        }
+      },
+      "a700": {
+        "$type": "color",
+        "$value": "#df4705b2",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-a700"
+          }
+        }
+      },
+      "a800": {
+        "$type": "color",
+        "$value": "#df4705cc",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-a800"
+          }
+        }
+      },
+      "a900": {
+        "$type": "color",
+        "$value": "#df4705e5",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-poppy-a900"
+          }
+        }
+      }
+    },
+    "mist": {
+      "a100": {
+        "$type": "color",
+        "$value": "#5887ca1a",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-a100"
+          }
+        }
+      },
+      "a200": {
+        "$type": "color",
+        "$value": "#5887ca33",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-a200"
+          }
+        }
+      },
+      "a300": {
+        "$type": "color",
+        "$value": "#5887ca4d",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-a300"
+          }
+        }
+      },
+      "a400": {
+        "$type": "color",
+        "$value": "#5887ca66",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-a400"
+          }
+        }
+      },
+      "a500": {
+        "$type": "color",
+        "$value": "#5887ca80",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-a500"
+          }
+        }
+      },
+      "a600": {
+        "$type": "color",
+        "$value": "#5887ca99",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-a600"
+          }
+        }
+      },
+      "a700": {
+        "$type": "color",
+        "$value": "#5887cab2",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-a700"
+          }
+        }
+      },
+      "a800": {
+        "$type": "color",
+        "$value": "#5887cacc",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-a800"
+          }
+        }
+      },
+      "a900": {
+        "$type": "color",
+        "$value": "#5887cae5",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-mist-a900"
+          }
+        }
+      }
+    },
+    "avocado": {
+      "a100": {
+        "$type": "color",
+        "$value": "#928b241a",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-a100"
+          }
+        }
+      },
+      "a200": {
+        "$type": "color",
+        "$value": "#928b2433",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-a200"
+          }
+        }
+      },
+      "a300": {
+        "$type": "color",
+        "$value": "#928b244d",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-a300"
+          }
+        }
+      },
+      "a400": {
+        "$type": "color",
+        "$value": "#928b2466",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-a400"
+          }
+        }
+      },
+      "a500": {
+        "$type": "color",
+        "$value": "#928b2480",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-a500"
+          }
+        }
+      },
+      "a600": {
+        "$type": "color",
+        "$value": "#928b2499",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-a600"
+          }
+        }
+      },
+      "a700": {
+        "$type": "color",
+        "$value": "#928b24b2",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-a700"
+          }
+        }
+      },
+      "a800": {
+        "$type": "color",
+        "$value": "#928b24cc",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-a800"
+          }
+        }
+      },
+      "a900": {
+        "$type": "color",
+        "$value": "#928b24e5",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-avocado-a900"
+          }
+        }
+      }
+    },
+    "cherry": {
+      "a100": {
+        "$type": "color",
+        "$value": "#d44d541a",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-a100"
+          }
+        }
+      },
+      "a200": {
+        "$type": "color",
+        "$value": "#d44d5433",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-a200"
+          }
+        }
+      },
+      "a300": {
+        "$type": "color",
+        "$value": "#d44d544d",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-a300"
+          }
+        }
+      },
+      "a400": {
+        "$type": "color",
+        "$value": "#d44d5466",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-a400"
+          }
+        }
+      },
+      "a500": {
+        "$type": "color",
+        "$value": "#d44d5480",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-a500"
+          }
+        }
+      },
+      "a600": {
+        "$type": "color",
+        "$value": "#d44d5499",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-a600"
+          }
+        }
+      },
+      "a700": {
+        "$type": "color",
+        "$value": "#d44d54b2",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-a700"
+          }
+        }
+      },
+      "a800": {
+        "$type": "color",
+        "$value": "#d44d54cc",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-a800"
+          }
+        }
+      },
+      "a900": {
+        "$type": "color",
+        "$value": "#d44d54e5",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-cherry-a900"
+          }
+        }
+      }
+    },
+    "fern": {
+      "a100": {
+        "$type": "color",
+        "$value": "#4b9a611a",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-a100"
+          }
+        }
+      },
+      "a200": {
+        "$type": "color",
+        "$value": "#4b9a6133",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-a200"
+          }
+        }
+      },
+      "a300": {
+        "$type": "color",
+        "$value": "#4b9a614d",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-a300"
+          }
+        }
+      },
+      "a400": {
+        "$type": "color",
+        "$value": "#4b9a6166",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-a400"
+          }
+        }
+      },
+      "a500": {
+        "$type": "color",
+        "$value": "#4b9a6180",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-a500"
+          }
+        }
+      },
+      "a600": {
+        "$type": "color",
+        "$value": "#4b9a6199",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-a600"
+          }
+        }
+      },
+      "a700": {
+        "$type": "color",
+        "$value": "#4b9a61b2",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-a700"
+          }
+        }
+      },
+      "a800": {
+        "$type": "color",
+        "$value": "#4b9a61cc",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-a800"
+          }
+        }
+      },
+      "a900": {
+        "$type": "color",
+        "$value": "#4b9a61e5",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-fern-a900"
+          }
+        }
+      }
+    },
+    "marigold": {
+      "a100": {
+        "$type": "color",
+        "$value": "#c585261a",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-a100"
+          }
+        }
+      },
+      "a200": {
+        "$type": "color",
+        "$value": "#c5852633",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-a200"
+          }
+        }
+      },
+      "a300": {
+        "$type": "color",
+        "$value": "#c585264d",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-a300"
+          }
+        }
+      },
+      "a400": {
+        "$type": "color",
+        "$value": "#c5852666",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-a400"
+          }
+        }
+      },
+      "a500": {
+        "$type": "color",
+        "$value": "#c5852680",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-a500"
+          }
+        }
+      },
+      "a600": {
+        "$type": "color",
+        "$value": "#c5852699",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-a600"
+          }
+        }
+      },
+      "a700": {
+        "$type": "color",
+        "$value": "#c58526b2",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-a700"
+          }
+        }
+      },
+      "a800": {
+        "$type": "color",
+        "$value": "#c58526cc",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-a800"
+          }
+        }
+      },
+      "a900": {
+        "$type": "color",
+        "$value": "#c58526e5",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--color-marigold-a900"
+          }
+        }
+      }
+    }
+  },
+  "radius": {
+    "xs": {
+      "$type": "dimension",
+      "$value": "4px",
+      "$description": "Small details, like inline code",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--radius-xs"
+        }
+      }
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "8px",
+      "$description": "Badges, inputs, buttons",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--radius-sm"
+        }
+      }
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "12px",
+      "$description": "Images and media inside a card",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--radius-md"
+        }
+      }
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "16px",
+      "$description": "Cards, header, footer, media frames",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--radius-lg"
+        }
+      }
+    },
+    "full": {
+      "$type": "dimension",
+      "$value": "9999px",
+      "$description": "Dots, round buttons, pills",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--radius-full"
+        }
+      }
+    }
+  },
+  "spacing": {
+    "0.5": {
+      "$type": "dimension",
+      "$value": "2px",
+      "$description": "Tailwind step 0.5 = 2px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 0.5)"
+        }
+      }
+    },
+    "1": {
+      "$type": "dimension",
+      "$value": "4px",
+      "$description": "Tailwind step 1 = 4px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 1)"
+        }
+      }
+    },
+    "1.5": {
+      "$type": "dimension",
+      "$value": "6px",
+      "$description": "Tailwind step 1.5 = 6px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 1.5)"
+        }
+      }
+    },
+    "2": {
+      "$type": "dimension",
+      "$value": "8px",
+      "$description": "Tailwind step 2 = 8px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 2)"
+        }
+      }
+    },
+    "2.5": {
+      "$type": "dimension",
+      "$value": "10px",
+      "$description": "Tailwind step 2.5 = 10px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 2.5)"
+        }
+      }
+    },
+    "3": {
+      "$type": "dimension",
+      "$value": "12px",
+      "$description": "Tailwind step 3 = 12px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 3)"
+        }
+      }
+    },
+    "4": {
+      "$type": "dimension",
+      "$value": "16px",
+      "$description": "Tailwind step 4 = 16px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 4)"
+        }
+      }
+    },
+    "5": {
+      "$type": "dimension",
+      "$value": "20px",
+      "$description": "Tailwind step 5 = 20px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 5)"
+        }
+      }
+    },
+    "6": {
+      "$type": "dimension",
+      "$value": "24px",
+      "$description": "Tailwind step 6 = 24px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 6)"
+        }
+      }
+    },
+    "8": {
+      "$type": "dimension",
+      "$value": "32px",
+      "$description": "Tailwind step 8 = 32px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 8)"
+        }
+      }
+    },
+    "9": {
+      "$type": "dimension",
+      "$value": "36px",
+      "$description": "Tailwind step 9 = 36px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 9)"
+        }
+      }
+    },
+    "10": {
+      "$type": "dimension",
+      "$value": "40px",
+      "$description": "Tailwind step 10 = 40px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 10)"
+        }
+      }
+    },
+    "12": {
+      "$type": "dimension",
+      "$value": "48px",
+      "$description": "Tailwind step 12 = 48px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 12)"
+        }
+      }
+    },
+    "16": {
+      "$type": "dimension",
+      "$value": "64px",
+      "$description": "Tailwind step 16 = 64px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 16)"
+        }
+      }
+    },
+    "20": {
+      "$type": "dimension",
+      "$value": "80px",
+      "$description": "Tailwind step 20 = 80px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 20)"
+        }
+      }
+    },
+    "24": {
+      "$type": "dimension",
+      "$value": "96px",
+      "$description": "Tailwind step 24 = 96px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "tailwind": "calc(var(--spacing) * 24)"
+        }
+      }
+    }
+  },
+  "size": {
+    "icon": {
+      "sm": {
+        "$type": "dimension",
+        "$value": "16px",
+        "$description": "Small icons, like icons inside labels",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--spacing-icon-sm"
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "20px",
+        "$description": "Default icon size",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--spacing-icon-md"
+          }
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "24px",
+        "$description": "Large icons",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--spacing-icon-lg"
+          }
+        }
+      }
+    },
+    "control": {
+      "sm": {
+        "$type": "dimension",
+        "$value": "32px",
+        "$description": "Compact controls",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--spacing-control-sm"
+          }
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "40px",
+        "$description": "Default control: round carousel and dialog buttons",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--spacing-control-md"
+          }
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "48px",
+        "$description": "Large controls",
+        "$extensions": {
+          "com.alygates.notions": {
+            "css": "--spacing-control-lg"
+          }
+        }
+      }
+    }
+  },
+  "duration": {
+    "150": {
+      "$type": "duration",
+      "$value": "150ms"
+    },
+    "300": {
+      "$type": "duration",
+      "$value": "300ms"
+    },
+    "500": {
+      "$type": "duration",
+      "$value": "500ms"
+    }
+  },
+  "breakpoint": {
+    "sm": {
+      "$type": "dimension",
+      "$value": "640px",
+      "$description": "sm: applies at 640px and up. Tailwind default.",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--breakpoint-sm"
+        }
+      }
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "768px",
+      "$description": "md: applies at 768px and up. Tailwind default.",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--breakpoint-md"
+        }
+      }
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "1024px",
+      "$description": "lg: applies at 1024px and up. Tailwind default.",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--breakpoint-lg"
+        }
+      }
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "1280px",
+      "$description": "xl: applies at 1280px and up. Tailwind default.",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--breakpoint-xl"
+        }
+      }
+    },
+    "2xl": {
+      "$type": "dimension",
+      "$value": "1536px",
+      "$description": "2xl: applies at 1536px and up. Tailwind default.",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--breakpoint-2xl"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "focus": {
+    "width": {
+      "$type": "dimension",
+      "$value": "2px",
+      "$description": "Focus outline width",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--focus-width"
+        }
+      }
+    },
+    "offset": {
+      "$type": "dimension",
+      "$value": "3px",
+      "$description": "Gap between the element and its focus outline",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--focus-offset"
+        }
+      }
+    }
+  },
+  "motion": {
+    "duration-fast": {
+      "$type": "duration",
+      "$value": "{duration.150}",
+      "$description": "Color and opacity changes",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--duration-fast"
+        }
+      }
+    },
+    "duration-normal": {
+      "$type": "duration",
+      "$value": "{duration.300}",
+      "$description": "Most transitions: hovers, presses, small movement",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--duration-normal"
+        }
+      }
+    },
+    "duration-slow": {
+      "$type": "duration",
+      "$value": "{duration.500}",
+      "$description": "Reveals and larger movement",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--duration-slow"
+        }
+      }
+    },
+    "easing": {
+      "$type": "cubicBezier",
+      "$value": [
+        0,
+        0,
+        0.2,
+        1
+      ],
+      "$description": "ease-out everywhere (Tailwind ease-out)",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--ease-out"
+        }
+      }
+    },
+    "scale-press": {
+      "$type": "number",
+      "$value": 0.98,
+      "$description": "Anything clickable shrinks slightly on press",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--scale-press"
+        }
+      }
+    },
+    "scale-hover": {
+      "$type": "number",
+      "$value": 1.05,
+      "$description": "Image zoom on hover",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--scale-hover"
+        }
+      }
+    }
+  },
+  "blur": {
+    "overlay": {
+      "$type": "dimension",
+      "$value": "4px",
+      "$description": "Background blur paired with surface-overlay",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--blur-overlay",
+          "tailwind": "backdrop-blur-xs"
+        }
+      }
+    }
+  }
+}

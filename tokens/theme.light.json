@@ -1,0 +1,544 @@
+{
+  "surface": {
+    "default": {
+      "$type": "color",
+      "$value": "{color.neutral.100}",
+      "$description": "Page background",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-surface"
+        }
+      }
+    },
+    "raised": {
+      "$type": "color",
+      "$value": "{alpha.neutral.a100}",
+      "$description": "Cards, panels",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-surface-raised"
+        }
+      }
+    },
+    "sunken": {
+      "$type": "color",
+      "$value": "{alpha.neutral.a100}",
+      "$description": "Inline code, inputs",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-surface-sunken"
+        }
+      }
+    },
+    "overlay": {
+      "$type": "color",
+      "$value": "{alpha.neutral-inverse.a800}",
+      "$description": "Frosted header and footer. Pair with overlay blur.",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-surface-overlay"
+        }
+      }
+    },
+    "inverse": {
+      "$type": "color",
+      "$value": "{color.neutral.900}",
+      "$description": "Tooltips, toasts",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-surface-inverse"
+        }
+      }
+    },
+    "backdrop": {
+      "$type": "color",
+      "$value": "{alpha.neutral.a800}",
+      "$description": "Dim layer behind dialogs and the expanded carousel",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-backdrop"
+        }
+      }
+    }
+  },
+  "ink": {
+    "default": {
+      "$type": "color",
+      "$value": "{color.neutral.600}",
+      "$description": "Body text, icons",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-ink"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{color.neutral.500}",
+      "$description": "Captions, secondary text",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-ink-subtle"
+        }
+      }
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{alpha.neutral.a400}",
+      "$description": "Disabled labels (exempt from contrast)",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-ink-disabled"
+        }
+      }
+    },
+    "inverse": {
+      "$type": "color",
+      "$value": "{color.neutral.100}",
+      "$description": "Text on surface-inverse",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-ink-inverse"
+        }
+      }
+    }
+  },
+  "line": {
+    "subtle": {
+      "$type": "color",
+      "$value": "{color.neutral.200}",
+      "$description": "Dividers, card edges (decorative)",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-line-subtle"
+        }
+      }
+    },
+    "default": {
+      "$type": "color",
+      "$value": "{color.neutral.300}",
+      "$description": "Default borders (decorative)",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-line"
+        }
+      }
+    },
+    "strong": {
+      "$type": "color",
+      "$value": "{color.neutral.500}",
+      "$description": "Inputs and controls, 3:1 or better",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-line-strong"
+        }
+      }
+    }
+  },
+  "state": {
+    "hover": {
+      "$type": "color",
+      "$value": "{alpha.neutral.a100}",
+      "$description": "Row and quiet button hover",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-hover"
+        }
+      }
+    },
+    "pressed": {
+      "$type": "color",
+      "$value": "{alpha.neutral.a200}",
+      "$description": "Pressed state",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-pressed"
+        }
+      }
+    },
+    "selected": {
+      "$type": "color",
+      "$value": "{alpha.neutral.a200}",
+      "$description": "Selected state",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-selected"
+        }
+      }
+    },
+    "focus": {
+      "$type": "color",
+      "$value": "{color.poppy.600}",
+      "$description": "Focus ring. Always poppy.",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-focus"
+        }
+      }
+    }
+  },
+  "primary": {
+    "default": {
+      "$type": "color",
+      "$value": "{color.poppy.600}",
+      "$description": "Primary actions. Each app can point this at a different accent.",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-primary"
+        }
+      }
+    },
+    "strong": {
+      "$type": "color",
+      "$value": "{color.poppy.700}",
+      "$description": "Text and icons on primary-subtle backgrounds, and colored text inside cards",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-primary-strong"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{alpha.poppy.a200}",
+      "$description": "Tinted background",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-primary-subtle"
+        }
+      }
+    },
+    "line": {
+      "$type": "color",
+      "$value": "{color.poppy.500}",
+      "$description": "Border, 3:1 or better",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-primary-line"
+        }
+      }
+    },
+    "on": {
+      "$type": "color",
+      "$value": "{color.neutral.100}",
+      "$description": "Text on a primary fill",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-on-primary"
+        }
+      }
+    }
+  },
+  "danger": {
+    "default": {
+      "$type": "color",
+      "$value": "{color.cherry.600}",
+      "$description": "Errors and destructive actions",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-danger"
+        }
+      }
+    },
+    "strong": {
+      "$type": "color",
+      "$value": "{color.cherry.700}",
+      "$description": "Text and icons on danger-subtle backgrounds, and colored text inside cards",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-danger-strong"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{alpha.cherry.a200}",
+      "$description": "Tinted background",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-danger-subtle"
+        }
+      }
+    },
+    "line": {
+      "$type": "color",
+      "$value": "{color.cherry.500}",
+      "$description": "Border, 3:1 or better",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-danger-line"
+        }
+      }
+    },
+    "on": {
+      "$type": "color",
+      "$value": "{color.neutral.100}",
+      "$description": "Text on a danger fill",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-on-danger"
+        }
+      }
+    }
+  },
+  "success": {
+    "default": {
+      "$type": "color",
+      "$value": "{color.fern.600}",
+      "$description": "Success",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-success"
+        }
+      }
+    },
+    "strong": {
+      "$type": "color",
+      "$value": "{color.fern.700}",
+      "$description": "Text and icons on success-subtle backgrounds, and colored text inside cards",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-success-strong"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{alpha.fern.a200}",
+      "$description": "Tinted background",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-success-subtle"
+        }
+      }
+    },
+    "line": {
+      "$type": "color",
+      "$value": "{color.fern.500}",
+      "$description": "Border, 3:1 or better",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-success-line"
+        }
+      }
+    },
+    "on": {
+      "$type": "color",
+      "$value": "{color.neutral.100}",
+      "$description": "Text on a success fill",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-on-success"
+        }
+      }
+    }
+  },
+  "warning": {
+    "default": {
+      "$type": "color",
+      "$value": "{color.marigold.600}",
+      "$description": "Warnings",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-warning"
+        }
+      }
+    },
+    "strong": {
+      "$type": "color",
+      "$value": "{color.marigold.700}",
+      "$description": "Text and icons on warning-subtle backgrounds, and colored text inside cards",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-warning-strong"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{alpha.marigold.a200}",
+      "$description": "Tinted background",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-warning-subtle"
+        }
+      }
+    },
+    "line": {
+      "$type": "color",
+      "$value": "{color.marigold.600}",
+      "$description": "Border, 3:1 or better",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-warning-line"
+        }
+      }
+    },
+    "on": {
+      "$type": "color",
+      "$value": "{color.neutral.100}",
+      "$description": "Text on a warning fill",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-on-warning"
+        }
+      }
+    }
+  },
+  "accent-poppy": {
+    "default": {
+      "$type": "color",
+      "$value": "{color.poppy.600}",
+      "$description": "Decorative accent, no fixed meaning",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-accent-poppy"
+        }
+      }
+    },
+    "strong": {
+      "$type": "color",
+      "$value": "{color.poppy.700}",
+      "$description": "Text and icons on accent-poppy-subtle backgrounds, and colored text inside cards",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-accent-poppy-strong"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{alpha.poppy.a200}",
+      "$description": "Tinted background",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-accent-poppy-subtle"
+        }
+      }
+    },
+    "line": {
+      "$type": "color",
+      "$value": "{color.poppy.500}",
+      "$description": "Border, 3:1 or better",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-accent-poppy-line"
+        }
+      }
+    },
+    "on": {
+      "$type": "color",
+      "$value": "{color.neutral.100}",
+      "$description": "Text on a accent-poppy fill",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-on-accent-poppy"
+        }
+      }
+    }
+  },
+  "accent-mist": {
+    "default": {
+      "$type": "color",
+      "$value": "{color.mist.600}",
+      "$description": "Decorative accent, no fixed meaning",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-accent-mist"
+        }
+      }
+    },
+    "strong": {
+      "$type": "color",
+      "$value": "{color.mist.700}",
+      "$description": "Text and icons on accent-mist-subtle backgrounds, and colored text inside cards",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-accent-mist-strong"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{alpha.mist.a200}",
+      "$description": "Tinted background",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-accent-mist-subtle"
+        }
+      }
+    },
+    "line": {
+      "$type": "color",
+      "$value": "{color.mist.500}",
+      "$description": "Border, 3:1 or better",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-accent-mist-line"
+        }
+      }
+    },
+    "on": {
+      "$type": "color",
+      "$value": "{color.neutral.100}",
+      "$description": "Text on a accent-mist fill",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-on-accent-mist"
+        }
+      }
+    }
+  },
+  "accent-avocado": {
+    "default": {
+      "$type": "color",
+      "$value": "{color.avocado.600}",
+      "$description": "Decorative accent, no fixed meaning",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-accent-avocado"
+        }
+      }
+    },
+    "strong": {
+      "$type": "color",
+      "$value": "{color.avocado.700}",
+      "$description": "Text and icons on accent-avocado-subtle backgrounds, and colored text inside cards",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-accent-avocado-strong"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{alpha.avocado.a200}",
+      "$description": "Tinted background",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-accent-avocado-subtle"
+        }
+      }
+    },
+    "line": {
+      "$type": "color",
+      "$value": "{color.avocado.500}",
+      "$description": "Border, 3:1 or better",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-accent-avocado-line"
+        }
+      }
+    },
+    "on": {
+      "$type": "color",
+      "$value": "{color.neutral.100}",
+      "$description": "Text on a accent-avocado fill",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--color-on-accent-avocado"
+        }
+      }
+    }
+  }
+}

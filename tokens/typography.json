@@ -1,0 +1,306 @@
+{
+  "font-family": {
+    "display": {
+      "$type": "fontFamily",
+      "$value": [
+        "Corben",
+        "Georgia",
+        "Times New Roman",
+        "serif"
+      ],
+      "$description": "Display and title styles",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--font-display"
+        }
+      }
+    },
+    "body": {
+      "$type": "fontFamily",
+      "$value": [
+        "Nunito",
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ],
+      "$description": "Body and heading styles",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--font-body"
+        }
+      }
+    },
+    "label": {
+      "$type": "fontFamily",
+      "$value": [
+        "Google Sans Code",
+        "Menlo",
+        "Monaco",
+        "Consolas",
+        "Courier New",
+        "monospace"
+      ],
+      "$description": "Label and code styles",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--font-label"
+        }
+      }
+    }
+  },
+  "font-size": {
+    "xs": {
+      "$type": "dimension",
+      "$value": "12px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--text-xs"
+        }
+      }
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "14px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--text-sm"
+        }
+      }
+    },
+    "base": {
+      "$type": "dimension",
+      "$value": "16px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--text-base"
+        }
+      }
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "18px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--text-lg"
+        }
+      }
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "20px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--text-xl"
+        }
+      }
+    },
+    "2xl": {
+      "$type": "dimension",
+      "$value": "24px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--text-2xl"
+        }
+      }
+    },
+    "3xl": {
+      "$type": "dimension",
+      "$value": "30px",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--text-3xl"
+        }
+      }
+    },
+    "title": {
+      "$type": "dimension",
+      "$value": "64px",
+      "$description": "Fluid in code; Figma shows the desktop size.",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--text-title",
+          "css_value": "clamp(3rem, 1.5rem + 7vw, 4rem)"
+        }
+      }
+    },
+    "display": {
+      "$type": "dimension",
+      "$value": "80px",
+      "$description": "Fluid in code; Figma shows the desktop size.",
+      "$extensions": {
+        "com.alygates.notions": {
+          "css": "--text-display",
+          "css_value": "clamp(4rem, 1.5rem + 12vw, 5rem)"
+        }
+      }
+    }
+  },
+  "font-weight": {
+    "regular": {
+      "$type": "fontWeight",
+      "$value": 400
+    },
+    "medium": {
+      "$type": "fontWeight",
+      "$value": 500
+    },
+    "bold": {
+      "$type": "fontWeight",
+      "$value": 700
+    }
+  },
+  "text-style": {
+    "display": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font-family.display}",
+        "fontSize": "{font-size.display}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "80px",
+        "letterSpacing": "0em"
+      },
+      "$description": "Name on the homepage"
+    },
+    "title": {
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.display}",
+          "fontSize": "{font-size.title}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "64px",
+          "letterSpacing": "0em"
+        },
+        "$description": "Case study titles"
+      },
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.display}",
+          "fontSize": "{font-size.3xl}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "36px",
+          "letterSpacing": "0em"
+        },
+        "$description": "Project card titles"
+      }
+    },
+    "heading": {
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.body}",
+          "fontSize": "{font-size.3xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "36px",
+          "letterSpacing": "0em"
+        },
+        "$description": "Prose h2"
+      },
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.body}",
+          "fontSize": "{font-size.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "32px",
+          "letterSpacing": "0em"
+        },
+        "$description": "Prose h3"
+      },
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.body}",
+          "fontSize": "{font-size.xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "28px",
+          "letterSpacing": "0em"
+        },
+        "$description": "Prose h4"
+      }
+    },
+    "body": {
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.body}",
+          "fontSize": "{font-size.lg}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "28px",
+          "letterSpacing": "0em"
+        },
+        "$description": "Intros, case study body"
+      },
+      "default": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.body}",
+          "fontSize": "{font-size.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "24px",
+          "letterSpacing": "0em"
+        },
+        "$description": "Default body text"
+      },
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.body}",
+          "fontSize": "{font-size.sm}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "20px",
+          "letterSpacing": "0em"
+        },
+        "$description": "Dates, small supporting text"
+      }
+    },
+    "label": {
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.label}",
+          "fontSize": "{font-size.lg}",
+          "fontWeight": "{font-weight.medium}",
+          "lineHeight": "28px",
+          "letterSpacing": "0.1em"
+        },
+        "$description": "Eyebrows, mobile nav"
+      },
+      "default": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.label}",
+          "fontSize": "{font-size.sm}",
+          "fontWeight": "{font-weight.medium}",
+          "lineHeight": "20px",
+          "letterSpacing": "0.1em"
+        },
+        "$description": "Spec labels, breadcrumb"
+      },
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.label}",
+          "fontSize": "{font-size.xs}",
+          "fontWeight": "{font-weight.medium}",
+          "lineHeight": "16px",
+          "letterSpacing": "0.1em"
+        },
+        "$description": "Badges, nav, footer"
+      }
+    },
+    "code": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font-family.label}",
+        "fontSize": "{font-size.base}",
+        "fontWeight": "{font-weight.medium}",
+        "lineHeight": "24px",
+        "letterSpacing": "0em"
+      },
+      "$description": "Inline code and code blocks"
+    }
+  }
+}
