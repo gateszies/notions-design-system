@@ -1,6 +1,8 @@
 # Notions Design System
 
-Design tokens and React components behind [alygates.com](https://www.alygates.com) and the small apps I build. In sewing, notions are the small parts that finish a garment: buttons, zippers, snaps.
+Design tokens and React components behind [alygates.com](https://www.alygates.com) and the small apps I build. 
+
+In sewing, notions are the small parts that finish a garment like buttons, zippers, and snaps.
 
 - **Figma:** the Notions Design System file (Tokens, Components, Exploration)
 - **Package:** `@alygates/notions`
