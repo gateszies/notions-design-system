@@ -176,9 +176,9 @@
   --notions-ink-subtle: var(--color-neutral-300);
   --notions-ink-disabled: var(--color-neutral-inverse-a400);
   --notions-ink-inverse: var(--color-neutral-900);
-  --notions-line-subtle: var(--color-neutral-700);
-  --notions-line: var(--color-neutral-500);
-  --notions-line-strong: var(--color-neutral-400);
+  --notions-line-subtle: var(--color-neutral-500);
+  --notions-line: var(--color-neutral-400);
+  --notions-line-strong: var(--color-neutral-300);
   --notions-hover: var(--color-neutral-inverse-a100);
   --notions-pressed: var(--color-neutral-inverse-a200);
   --notions-selected: var(--color-neutral-inverse-a200);

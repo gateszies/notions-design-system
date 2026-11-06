@@ -106,7 +106,7 @@
   "line": {
     "subtle": {
       "$type": "color",
-      "$value": "{color.neutral.700}",
+      "$value": "{color.neutral.500}",
       "$description": "Dividers, card edges (decorative)",
       "$extensions": {
         "com.alygates.notions": {
@@ -116,7 +116,7 @@
     },
     "default": {
       "$type": "color",
-      "$value": "{color.neutral.500}",
+      "$value": "{color.neutral.400}",
       "$description": "Default borders (decorative)",
       "$extensions": {
         "com.alygates.notions": {
@@ -126,7 +126,7 @@
     },
     "strong": {
       "$type": "color",
-      "$value": "{color.neutral.400}",
+      "$value": "{color.neutral.300}",
       "$description": "Inputs and controls, 3:1 or better",
       "$extensions": {
         "com.alygates.notions": {
